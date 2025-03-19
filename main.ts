@@ -21,6 +21,9 @@ function bubbleSort () {
             }
         }
     }
+    while (false) {
+    	
+    }
 }
 let boolean = false
 let temp = 0
